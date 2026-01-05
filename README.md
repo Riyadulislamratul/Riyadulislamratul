@@ -1,40 +1,34 @@
-## Hi there I'm Riyadul Islam Ratul 👋
-### Full Stack Developer | Tailwind | React | Django
+👋 Hi There! I'm Riyadul Islam Ratul
+💻 Full-Stack Web Developer | Django • React • Tailwind
 
-🚀 Passionate about Web Development, System Design, and Open Source.
+🚀 I build clean, scalable, and user-friendly web applications with a strong focus on performance and modern UI.
 
-## 🛠 Tech Stack
+👨‍💻 About Me
 
-**Languages & Tools:**
+I’m a passionate Full-Stack Web Developer who enjoys turning ideas into real-world applications.
+I work mainly with Django for backend and React + Tailwind CSS for modern, responsive frontends.
 
-<p>
-  <img src="https://skillicons.dev/icons?i=python,django,react,nodejs,js,html,css,git,github,postgres" />
-</p>
+I love learning new technologies, improving system design skills, and building projects that solve real problems.
 
+🧠 Tech Stack
+🧾 Languages
+<p> <img src="https://skillicons.dev/icons?i=html,css,js" /> </p>
+⚙️ Frameworks & Libraries
+<p> <img src="https://skillicons.dev/icons?i=django,react,tailwind" /> </p>
+🛠 Skills
+<p> <img src="https://skillicons.dev/icons?i=tailwind,react,django" /> </p>
+📊 GitHub Stats & Profile Views
+<p> <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=0e75b6&style=flat" /> </p> <p> <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" /> </p>
+🌱 Currently Learning
 
-![GitHub followers](https://img.shields.io/github/followers/YOUR_USERNAME?style=social)
+Advanced Django & REST APIs
 
+Frontend performance optimization
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=green)
+Clean architecture & best practices
 
+🤝 Let’s Connect
 
-![GitHub Repo stars](https://img.shields.io/github/stars/YOUR_USERNAME?style=social)
+💼 GitHub: https://github.com/Riyadulislamratul
 
-
-<!--
-**Riyadulislamratul/Riyadulislamratul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-## 👨‍💻 About Me
-
-- 🔥 Full-Stack Developer (Django + React)
-- 🌱 Learning Data Science & Machine Learning
-- 🛠 Building clean, scalable software
-- ✍️ Writing blogs & contributing to open-source
-
-
-
-## 🚀 Featured Projects
-
-- ⭐ [Project 1](https://github.com/RestaurantWeb-Mughul-Bangla)
-- ⭐ [Project 2](https://github.com/yourrepo)
-
+⭐ “Code is not just about logic, it’s about building experiences.”
