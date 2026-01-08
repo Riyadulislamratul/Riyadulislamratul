@@ -1,9 +1,9 @@
-<h1 align="center">
+<h1>
   Hi 👋, I'm Riyadul Islam Ratul
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&width=600&height=45&lines=Full-Stack+Web+Developer;Django+%7C+React+%7C+Tailwind+CSS;Building+Clean+%26+Scalable+Apps" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&center=true&vCenter=true&width=650&height=50&pause=1000&color=36BCF7&lines=Full-Stack+Web+Developer;Django+Backend+Developer;React+Frontend+Developer;Tailwind+CSS+UI+Builder;Always+Learning+New+Technologies" />
 </p>
 
 ---
