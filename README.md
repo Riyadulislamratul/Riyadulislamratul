@@ -54,28 +54,6 @@ I enjoy learning new technologies, improving system design skills, and turning i
 - 🔹 **Project One** – Django + React web application  
 - 🔹 **Project Two** – Responsive UI with Tailwind CSS  
 - 🔹 **Project Three** – Backend-focused Django project  
-
-_(You can replace these with real project links later)_
-
----
-
-## 📊 GitHub Overview
-
-<!-- <p>
-  <img src="https://komarev.com/ghpvc/?username=Riyadulislamratul&color=0e75b6&style=flat" />
-</p> -->
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=Riyadulislamratul&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
-
-<p>
-  <img src="https://streak-stats.demolab.com?user=Riyadulislamratul&theme=tokyonight&hide_border=true" />
-</p>
-
-
-
-
 ---
 
 🌱 **Currently Improving**
@@ -86,8 +64,4 @@ _(You can replace these with real project links later)_
 ---
 
 📫 **Let’s Connect**
-- GitHub: https://github.com/YOUR_USERNAME
-
----
-
-⭐ *“Clean code and continuous learning build great software.”*
+- Facebook: https://www.facebook.com/riadul.islam.ratul.2024
