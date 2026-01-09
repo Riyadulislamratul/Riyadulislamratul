@@ -57,17 +57,19 @@ _(You can replace these with real project links later)_
 ---
 
 ## 📊 GitHub Overview
+
 <p>
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=0e75b6&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=Riyadulislamratul&color=0e75b6&style=flat" />
 </p>
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Riyadulislamratul&show_icons=true&theme=tokyonight" />
 </p>
 
 <p>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Riyadulislamratul&theme=tokyonight" />
 </p>
+
 
 ---
 
