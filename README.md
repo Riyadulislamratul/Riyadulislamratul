@@ -3,6 +3,9 @@
 </h1>
 
 <p align="center">
+  <p>
+  <img src="https://komarev.com/ghpvc/?username=Riyadulislamratul&color=0e75b6&style=flat" />
+</p>
   <img src="https://readme-typing-svg.herokuapp.com?size=24&center=true&vCenter=true&width=650&height=50&pause=1000&color=36BCF7&lines=Full-Stack+Web+Developer;Django+Backend+Developer;React+Frontend+Developer;Tailwind+CSS+UI+Builder;Always+Learning+New+Technologies" />
 </p>
 
@@ -58,17 +61,18 @@ _(You can replace these with real project links later)_
 
 ## 📊 GitHub Overview
 
-<p>
+<!-- <p>
   <img src="https://komarev.com/ghpvc/?username=Riyadulislamratul&color=0e75b6&style=flat" />
+</p> -->
+
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=Riyadulislamratul&show_icons=true&theme=tokyonight&cache_seconds=1800" />
 </p>
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=Riyadulislamratul&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Riyadulislamratul&theme=tokyonight&cache_seconds=1800" />
 </p>
 
-<p>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Riyadulislamratul&theme=tokyonight" />
-</p>
 
 
 ---
