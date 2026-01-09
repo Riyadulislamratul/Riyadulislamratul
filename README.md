@@ -65,10 +65,12 @@ _(You can replace these with real project links later)_
   <img src="https://komarev.com/ghpvc/?username=Riyadulislamratul&color=0e75b6&style=flat" />
 </p> -->
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Riyadulislamratul&show_icons=true&theme=tokyonight" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Riyadulislamratul&theme=tokyonight" />
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=Riyadulislamratul&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
+
+<p>
+  <img src="https://streak-stats.demolab.com?user=Riyadulislamratul&theme=tokyonight&hide_border=true" />
 </p>
 
 
