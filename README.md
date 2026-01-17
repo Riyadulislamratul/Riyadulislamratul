@@ -24,7 +24,7 @@ I enjoy learning new technologies, improving system design skills, and turning i
 
 ### 🧾 Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,python" />
 </p>
 
 ---
