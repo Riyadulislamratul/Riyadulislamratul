@@ -31,7 +31,7 @@ I enjoy learning new technologies, improving system design skills, and turning i
 
 ### 🎨 Front-End Development
 <p>
-  <img src="https://skillicons.dev/icons?i=react,tailwind" />
+  <img src="https://skillicons.dev/icons?i=react,tailwind,bootstrap" />
 </p>
 
 ---
