@@ -1,5 +1,5 @@
 <h1>
-  Hi 👋, I'm Riyadul Islam Ratul hello
+  Hi 👋, I'm Riyadul Islam Ratul
 </h1>
 
 <p align="center">
