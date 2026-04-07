@@ -51,9 +51,9 @@ I enjoy learning new technologies, improving system design skills, and turning i
 ---
 
 ## 🚀 Featured Projects
-- 🔹 **Project One** – Django + React web application  
-- 🔹 **Project Two** – Responsive UI with Tailwind CSS  
-- 🔹 **Project Three** – Backend-focused Django project  
+- 🔹 **Project One** –  
+- 🔹 **Project Two** – 
+- 🔹 **Project Three** – 
 ---
 
 🌱 **Currently Improving**
