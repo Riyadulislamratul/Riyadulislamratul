@@ -51,9 +51,7 @@ I enjoy learning new technologies, improving system design skills, and turning i
 ---
 
 ## 🚀 Featured Projects
-- 🔹 **Project One** –  
-- 🔹 **Project Two** – 
-- 🔹 **Project Three** – 
+- 🔹
 ---
 
 🌱 **Currently Improving**
