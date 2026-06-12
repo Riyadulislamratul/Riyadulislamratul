@@ -30,7 +30,7 @@ I love transforming ideas into elegant digital experiences while constantly impr
 
 ### 🧾 Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,python" />
 </p>
 
 ---
