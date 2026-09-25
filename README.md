@@ -72,14 +72,6 @@ I'm continuously learning new technologies and improving my frontend development
   <img src="https://skillicons.dev/icons?i=git,github,vscode,npm" />
 </p>
 
----
-
-## 📊 GitHub Statistics
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Riyadulislamratul&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Riyadulislamratul&layout=compact&theme=tokyonight" />
-</p>
 
 ---
 
